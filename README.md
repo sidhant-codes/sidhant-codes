@@ -27,5 +27,29 @@
 
 ---
 
+## Languages
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="28" alt="css3 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
+</div>
+
+<br>
+
+## 📈 GitHub Stats
+
+<img  alt="Sidhant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidhant-codes&show_icons=true&theme=radical" alt="Your GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhant-codes&layout=compact&theme=radical" alt="Top languages" />
+
+---
+## 📫 Let's Connect
+
+- 📧 Email: [sidhantbisht1006@gmail.com](mailto:sidhantbisht1006@gmail.com)
+
 <!-- Footer note -->
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
